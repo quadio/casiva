@@ -20,9 +20,9 @@ module.exports = {
   devPostgres: {
     adapter: 'sails-postgresql',
     host: 'ec2-54-235-153-179.compute-1.amazonaws.com',
-    user: 'emaqsemsbxizvj',
-    password: 'Bd-R-mMuE-tjcJTHyWhobeDcP2',
-    database: 'dcd28uusqotld1'
+    user: 'micmwrttagqxju',
+    password: '0BI3orWWosJBsw6jjikfvs',
+    database: 'd4s4a63gptc6l9'
   }
 
 };

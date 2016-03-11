@@ -21,13 +21,13 @@ module.exports = {
   //   connection: 'someMysqlServer'
   // },
   
-  productionPostgres: {
+  prodPostgres: {
     adapter: 'sails-postgresql',
-    host: 'YOUR_POSTGRES_SERVER_HOSTNAME_OR_IP_ADDRESS',
-    user: 'YOUR_POSTGRES_USER',
-    password: 'YOUR_POSTGRES_PASSWORD',
-    database: 'YOUR_POSTGRES_DB'
-  }
+    host: 'ec2-54-235-153-179.compute-1.amazonaws.com',
+    user: 'emaqsemsbxizvj',
+    password: 'Bd-R-mMuE-tjcJTHyWhobeDcP2',
+    database: 'dcd28uusqotld1'
+  },
 
   /***************************************************************************
    * Set the port in the production environment to 80                        *
