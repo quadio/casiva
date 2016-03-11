@@ -9,6 +9,11 @@
  */
 
 module.exports = require('waterlock').waterlocked({
+  
+  _config: {
+    actions: false,
+    shortcuts: false
+  }
   /* e.g.
     action: function(req, res){
   
