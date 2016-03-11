@@ -1,0 +1,15 @@
+{
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "name": "casiva",
+  "version": "0.0.0",
+  "author": "ryanconnelly",
+  "private": true
+}
